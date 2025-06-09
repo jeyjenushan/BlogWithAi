@@ -1,0 +1,8 @@
+first create Server.js
+npm init -y
+npm i express cors jsonwebtoken multer dotenv mongoose
+npm i nodemon --save-dev
+
+connect mongoose to the application
+
+we store the image using imagekit.io
